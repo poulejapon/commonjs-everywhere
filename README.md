@@ -1,5 +1,7 @@
 # CommonJS Everywhere
 
+[![Build Status](https://secure.travis-ci.org/poulejapon/commonjs-everywhere.png)](http://travis-ci.org/poulejapon/commonjs-everywhere.png])
+
 CommonJS (node module) browser bundler with source maps from the minified JS bundle to the original source, aliasing for browser overrides, and extensibility for arbitrary compile-to-JS language support.
 
 ## Install
